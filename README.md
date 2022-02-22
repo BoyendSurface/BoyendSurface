@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoyendSurface
+- 👋 Hi, I’m @AymanRegragui
 - 👀 I’m interested in human & physic science matters as well as programming and fully indulging in learning new things concerning mental methods to enhance my ability to think critically and secure my independence.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source.
